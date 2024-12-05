@@ -1,0 +1,17 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .react-kanban-board {
+    height: 95vh !important;
+  }
+  
+  .react-kanban-column-header {
+    color: orange;
+  }
+  
+  .description-text {
+    font-size: 12px;
+  }
+  
